@@ -1,7 +1,6 @@
 const containerE1 = document.querySelector(".container");
 
 
-
 for (let index = 0; index < 5; index++) {
     const colorContainerE1 = document.createElement("div");
     colorContainerE1.classList.add("color-container");
